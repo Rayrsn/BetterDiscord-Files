@@ -1,0 +1,15 @@
+{
+    "version": "1.5.2",
+    "drawerStates": {
+        "settings": {
+            "developer": true,
+            "addons": false,
+            "window": true,
+            "customcss": false
+        }
+    },
+    "emoteVersion": "v1.5.2",
+    "favoriteEmotes": {
+        "Felan": "https://cdn.frankerfacez.com/emoticon/81092/1"
+    }
+}
