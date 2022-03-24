@@ -1,0 +1,26 @@
+{
+	"changeLogs": {
+		"BDFDB": "2.1.9",
+		"CreationDate": "1.4.6",
+		"GoogleSearchReplace": "1.3.2",
+		"ImageUtilities": "4.6.8",
+		"OldTitleBar": "1.7.1",
+		"ServerDetails": "1.1.1",
+		"ShowHiddenChannels": "3.0.6",
+		"SplitLargeMessages": "1.7.2",
+		"SpotifyControls": "1.2.4",
+		"Translator": "2.3.2"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	},
+	"hashes": {
+		"0BDFDB.data.json": "8f08825d634cb1ebc423392cd4cb4f58805127e6",
+		"0BDFDB.raw.css": "5b4dfd0092eb658a85c3896c5fdab49cf83d0cee"
+	}
+}

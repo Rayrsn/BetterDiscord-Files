@@ -1,0 +1,15 @@
+{
+    "currentVersionInfo": {
+        "version": "1.2.0",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "exclude": [
+            "929530170983989288",
+            "930419438929461268",
+            "839742744599724047",
+            "946092727018344448"
+        ],
+        "autoEnable": false
+    }
+}

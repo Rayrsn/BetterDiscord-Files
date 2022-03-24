@@ -1,0 +1,14 @@
+{
+	"cachedState": {
+		"date": "2022-01-06T22:34:18.433Z",
+		"value": false
+	},
+	"general": {
+		"playDisable": true,
+		"playEnable": true
+	},
+	"selections": {
+		"disableSound": "snowsgiving_deafen",
+		"enableSound": "snowsgiving_undeafen"
+	}
+}
